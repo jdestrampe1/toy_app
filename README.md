@@ -16,3 +16,10 @@ Set up Dev, Test, and Prod Environments in Gemfile.
 Specified Ruby Version '2.1.5'
 --------------------------------------------------------------
 Updated and Installed Gem Bundle
+--------------------------------------------------------------
+Added 2 resources to .db:
+
+Users and Microposts
+
+Associated posts to specific users.
+Controllers and Instance variables defined.
