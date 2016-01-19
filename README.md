@@ -23,3 +23,5 @@ Users and Microposts
 
 Associated posts to specific users.
 Controllers and Instance variables defined.
+
+Added Validations to Microposts controller.
