@@ -17,7 +17,6 @@ end
 group :development, :test do 	        # Sets up Dev and Test Environments
   gem 'sqlite3'
   gem 'byebug',      '3.4.0'
-  gem 'web-console'
   gem 'spring',      '1.1.3'
 end
 
@@ -31,3 +30,5 @@ group :production do                   # Sets up Production Envronment
   gem 'pg',             '0.17.1'
   gem 'rails_12factor', '0.0.2'
 end
+
+gem 'tzinfo-data', platforms: [:mingw, :mswin]
